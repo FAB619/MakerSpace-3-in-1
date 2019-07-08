@@ -64,3 +64,8 @@ MakerSpace was designed starting from two major problems:
     -And much more!
 - BOM cost of about **1000€**
 - power requirements 220V
+
+# Customizable
+<div align="center"><img src="media/Animation-custom.gif" width="100%"></div>
+
+# Everything is 3D printed
