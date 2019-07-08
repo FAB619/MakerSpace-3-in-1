@@ -70,3 +70,19 @@ MakerSpace was designed starting from two major problems:
 
 # Everything is 3D printed
 <div align="center"><img src="media/All 3d Printed.JPG" width="100%"></div>
+
+# CNC Milling
+<div align="center"><img src="media/CNC Milling.JPG" width="100%"></div>
+
+# Metal parts
+<div align="center"><img src="media/metal parts.JPG" width="100%"></div>
+
+# Electronics
+<div align="center"><img src="media/electronic parts.JPG" width="100%"></div>
+<div align="center"><i>Electronic Box</i></div>
+<div align="center"><img src="media/electronic parts 1.JPG" width="100%"></div>
+<div align="center"><i>Components</i></div>
+
+# Compact design
+<div align="center"><img src="media/compact 1.png" width="100%"></div>
+<div align="center"><img src="media/Compact.JPG" width="100%"></div>
