@@ -69,3 +69,4 @@ MakerSpace was designed starting from two major problems:
 <div align="center"><img src="media/Animation-custom.gif" width="100%"></div>
 
 # Everything is 3D printed
+<div align="center"><img src="media/All 3d Printed.JPG" width="100%"></div>
