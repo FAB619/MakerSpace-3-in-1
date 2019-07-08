@@ -30,10 +30,10 @@ Moreover, It's also a desktop makerspace, a combination of 3D printer, laser eng
 MakerSpace was designed starting from two major problems:
 -Space factor: With makerspace we are replacing 3 machines so we gain have more space.
 -Cost factor: With all-in-one machines we are saving money
-<div align="center"><img src="media/MakerSpace concept.jpg" width="100%"></div>
+<div align="center"><img src="media/MakerSpace concept.JPG" width="100%"></div>
 
 # Specifications
-<div align="center"><img src="media/Specification.jpg" width="100%"></div>
+<div align="center"><img src="media/Specification.JPG" width="100%"></div>
 
 
 **BigFDM specifications**:
