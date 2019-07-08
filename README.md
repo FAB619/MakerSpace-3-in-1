@@ -86,5 +86,4 @@ MakerSpace was designed starting from two major problems:
 <div align="center"><i>Components</i></div>
 
 # Compact design
-<div align="center"><img src="media/compact 1.png" width="100%"></div>
 <div align="center"><img src="media/Compact.JPG" width="100%"></div>
