@@ -36,7 +36,7 @@ MakerSpace was designed starting from two major problems:
 <div align="center"><img src="media/Specification.JPG" width="100%"></div>
 
 
-**BigFDM specifications**:
+**MakerSpace specifications**:
 
 - **466mm x 544mm x 752mm** machine dimension
 - **247.5mm x 255.5mm x 340mm** working area
@@ -71,7 +71,8 @@ MakerSpace was designed starting from two major problems:
 # Tools
 
 # Everything is 3D printed
-<div align="center"><img src="media/All 3d Printed.JPG" width="100%"></div>
+<div align="left"><img src="media/All 3d Printed.JPG" width="100%"></div>
+
 
 # CNC Milling
 <div align="center"><img src="media/CNC Milling.JPG" width="100%"></div>
