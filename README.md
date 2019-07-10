@@ -125,3 +125,13 @@ This is the table for [3D printed Parts](https://github.com/Fab-Lab-Machines/Mak
 <div align="center"><img src="media/Compact.JPG" width="100%"></div>
 
 # MakerSpace: Laser Cutting/Engraving
+As laser cutter and engraver machine, MakerSpaceis is equiped with 2 watt laser usefull for cutting papers, 3mm wood, 3mm acrylic and engrave on it.
+To Generate the G-code, there are diffrent softwares and methods.
+
+The first test for laser was generated using inkscape and [JTP laser tool plug-in](https://jtechphotonics.com/?page_id=2012) realy usefull and easy interface & the g-code generated is compatible with Marlin Firmware.
+<div align="center"><img src="media/JTP laser tool.jpg" width="100%"></div>
+<div align="center"><i>(https://jtechphotonics.com/?page_id=1980)</i></div>
+
+The second software tested was [LaserGRBL](http://lasergrbl.com/en/) which is one of the best Windows GCode streamer for DIY Laser Engraver. LaserGRBL is able to load and stream GCode path to arduino, as well engrave images, pictures and logo with internal conversion tool. (more details the website)
+we used this software to test image engraving and it is also compatible with Marlin Firmware with some modifications.
+<div align="center"><img src="media/laserGRBL.jpg" width="100%"></div>
