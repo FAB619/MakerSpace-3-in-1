@@ -73,6 +73,34 @@ MakerSpace was designed starting from two major problems:
 # Everything is 3D printed
 <div align="left"><img src="media/All 3d Printed.JPG" width="100%"></div>
 
+|désignation              |nombre|build time (hour:minute)|plastic weight (g)|lenght (mm)|            |
+|-------------------------|------|------------------------|------------------|-----------|------------|
+|Box base                 |1     |13:14:00                |175,15            |5840       |            |
+|Box-top                  |2     |18:46:00                |194,86            |64812,3    |            |
+|Eceres                   |10    |3:17:00                 |31,31             |10412,6    |            |
+|extruder housing         |1     |15:39:00                |254,32            |84588,4    |with support|
+|FF_housing               |1     |2:14:00                 |26,91             |8949,7     |with support|
+|Frame-protection-power   |2     |6:23:00                 |80,49             |26772,2    |            |
+|Front protection frame   |1     |7:14:00                 |96,78             |32188,5    |            |
+|hinge                    |4     |1:41:00                 |16,45             |5472,4     |            |
+|Laser-housing 1st        |1     |7:05:00                 |80,07             |26632,7    |with support|
+|Laser-housing second     |1     |7:06:00                 |80,07             |26629,8    |with support|
+|LMF_16UU costum          |2     |5:00:00                 |39,65             |13187,5    |            |
+|Mors-mobile-extruder     |1     |0:41:00                 |7,02              |2335       |with support|
+|Rod support              |1     |1:28:00                 |16,02             |5327,7     |            |
+|Rod support 2            |2     |2:59:00                 |32,36             |10762,6    |            |
+|Spacer_5_10              |4     |0:20:00                 |2,25              |746,9      |            |
+|Support bed & Glass      |1     |10:06:00                |121,82            |40517      |            |
+|support end stop         |2     |0:27:00                 |4,42              |1470,5     |            |
+|Support FF For SFU1      |2     |2:02:00                 |21                |6985       |            |
+|Support on Hinge         |2     |1:23:00                 |14,73             |4899,1     |            |
+|Support Rod Bottom       |2     |3:04:00                 |33,01             |10979      |            |
+|Spool Holder  (all parts)|1     |10:46:00                |123,32            |41015      |with support|
+|Tool holder              |1     |16:48:00                |191,99            |63855,4    |            |
+|Tool holder Top          |1     |3:51:00                 |43,46             |14421,6    |            |
+|Total :                  |46    |141:40:00               |1687,46           |508800,9   |
+
+
 
 # CNC Milling
 <div align="center"><img src="media/CNC Milling.JPG" width="100%"></div>
