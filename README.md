@@ -69,9 +69,16 @@ MakerSpace was designed starting from two major problems:
 <div align="center"><img src="media/Animation-custom.gif" width="100%"></div>
 
 # Tools
+<div align="center"><img src="media/Tools.JPG" width="100%"></div>
 
 # Everything is 3D printed
 <div align="left"><img src="media/All 3d Printed.JPG" width="100%"></div>
+
+To guarantee the reproducibility of MakerSpace, the majority of the parts are 3D printed in Fab Lab. It took approximately 140 hours print, and 2 kilogramms PLA filament. All the parts are designed with solidworks and Simplify3D for generating the g-code. The spool holder is an open source design designed by [Undeviljur](https://www.thingiverse.com/Undeviljur/about) and this is the thingiverse link:
+
+https://www.thingiverse.com/thing:1546811
+
+This is the table for [3D printed Parts](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/tree/master/Fabrication/3D%20printing)
 
 |désignation              |nombre|build time (hour:minute)|plastic weight (g)|lenght (mm)|            |
 |-------------------------|------|------------------------|------------------|-----------|------------|
