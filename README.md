@@ -116,3 +116,5 @@ MakerSpace was designed starting from two major problems:
 
 # Compact design
 <div align="center"><img src="media/Compact.JPG" width="100%"></div>
+
+# MakerSpace: Laser Cutting/Engraving
