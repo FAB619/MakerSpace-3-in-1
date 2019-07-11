@@ -124,6 +124,22 @@ This is the table for [3D printed Parts](https://github.com/Fab-Lab-Machines/Mak
 # Compact design
 <div align="center"><img src="media/Compact.JPG" width="100%"></div>
 
+
+# Software
+
+MakerSpace uses [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) runing on arduino Mega. The configuration changes have been applied into the configuration.h file, you can find it into the [configuration](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/tree/master/Config) folder. The most important modification into the code are for laser and CNC (if we use a variable spindle). To use MakerSpace as laser, you need to connect the laser driver ttl pin to a PWM pin from the ramps (Arduino). To do that I suggest using pin 44 (See AUX-2 from ramps) defined as FAN_Pin and control the laser like a fan or  to define pin 6 as the second fan just add this line to Configuration.h:
+
+- **#define** FAN1_PIN 6 // 2nd fan output attached to laser TTL input
+
+You can then control the laser from your G-code using M106 P1, like so…:
+
+- **M106 P1 S0**   ; Laser off (P1 = 2nd fan output)
+
+- **M106 P1 S128** ; Laser at 50%
+
+- **M106 P1 S255** ; Laser at 100%
+
+**NOTE**: You can use Fan0 if it is available, in which case you will not need to define the above. As of this edit, Marlin can control up to 3 fans via M106/M107. The same commands for variabble spindle (Still need to test it)
 # MakerSpace: Laser Cutting/Engraving
 As laser cutter and engraver machine, MakerSpaceis is equiped with 2 watt laser usefull for cutting papers, 3mm wood, 3mm acrylic and engrave on it.
 To Generate the G-code, there are diffrent softwares and methods.
