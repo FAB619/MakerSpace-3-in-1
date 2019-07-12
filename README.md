@@ -8,7 +8,7 @@
 3D printers are amazing. Unfortunately, they used to be hulking, complicated, expensive, and with limited functions. We’ve been hearing about and experiencing the pain of setting up the difficult-to-use DIY 3D printer kit and being limited by the standard plug-and-play 3D printer. We are hoping to change that. So we came up with an idea: create a 3D printer, which is easy-to-use, expandable for makers, and truly affordable for everyone.
 
 That’s why we designed MakerSpace to be all-in-one.
-<div align="center"><img src="media/Render Pack XY-Vue 1.211111.png" width="100%"></div>
+<div align="center"><img src="media/Renderings/Render Pack XY-Vue 1.211111.png" width="100%"></div>
 
 # MakerSpace 3-in-1
 MakerSpace is a Combination of 3 machines which characterizes any maker space or fablab around the word,Powerfull tool for rapid prototyping. Designed for Makers, Desingers, Architects ...
@@ -72,7 +72,7 @@ MakerSpace was designed starting from two major problems:
 <div align="center"><img src="media/Tools.JPG" width="100%"></div>
 
 # Everything is 3D printed
-<div align="left"><img src="media/All 3d Printed.JPG" width="100%"></div>
+<div align="left"><img src="media/Renderings/All 3d Printed.JPG" width="100%"></div>
 
 To guarantee the reproducibility of MakerSpace, the majority of the parts are 3D printed in Fab Lab. It took approximately 140 hours print, and 2 kilogramms PLA filament. All the parts are designed with solidworks and Simplify3D for generating the g-code. The spool holder is an open source design designed by [Undeviljur](https://www.thingiverse.com/Undeviljur/about) and this is the thingiverse link:
 
@@ -110,19 +110,19 @@ This is the table for [3D printed Parts](https://github.com/Fab-Lab-Machines/Mak
 
 
 # CNC Milling
-<div align="center"><img src="media/CNC Milling.JPG" width="100%"></div>
+<div align="center"><img src="media/Renderings/CNC Milling.JPG" width="100%"></div>
 
 # Metal parts
-<div align="center"><img src="media/metal parts.JPG" width="100%"></div>
+<div align="center"><img src="media/Renderings/metal parts.JPG" width="100%"></div>
 
 # Electronics
 <div align="center"><img src="media/electronic parts.JPG" width="100%"></div>
 <div align="center"><i>Electronic Box</i></div>
-<div align="center"><img src="media/electronic parts 1.JPG" width="100%"></div>
+<div align="center"><img src="media/Renderings/electronic parts 1.JPG" width="100%"></div>
 <div align="center"><i>Components</i></div>
 
 # Compact design
-<div align="center"><img src="media/Compact.JPG" width="100%"></div>
+<div align="center"><img src="media/Renderings/Compact.JPG" width="100%"></div>
 
 # Machine Details
 You can find clear details in the [docs](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/tree/master/Docs) folder in this repository.
