@@ -184,6 +184,47 @@ The second software tested was [LaserGRBL](http://lasergrbl.com/en/) which is on
 we used this software to test image engraving and it is also compatible with Marlin Firmware with some modifications.
 <div align="center"><img src="media/laserGRBL.jpg" width="100%"></div>
 
+# Build your own MakerSpace
+
+<div align="center"><img src="media/Building\20190623_154126.jpg" width="100%"></div>
+MakerSpace is made by using a mix of fabricated and ready-made parts. The ready-made parts are selected to be as common/standard as possible, to make the sourcing of them easy in many countries. For both the raw materials needed for the fabricated parts, and the ready-made parts, refer to the Bill-of-Material for details:
+
+**[MakerSpace BOM](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/blob/master/Docs/MakerSpace_BOM%20-%20Feuille%201.pdf)**
+
+The fabrication of the parts mainly relays on standard [Fab Lab equipment](https://docs.google.com/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html). It will be therefore possible to make MakerSpace in any of Fab Labs worldwide having it. Below a list of the required tools and machines:
+
+- C02 laser cutter:
+ - able to cut 3mm acrylic
+- large format wood CNC machine:
+ - ShopBot or similar, size 2500x1250mm
+ - to machine the aluminum parts (bed, Z axis supports)
+ - to machine the 8mm MDF parts (frame)
+- 3D printer:
+ - a small one (30x30x30cm) is sufficient
+ - to print all 3D printed parts
+- Lathe:
+ - To turn two SFU 1204 ball screw
+ - to turn some aluminum parts (Baguge for steppers)
+- standard set of tools:
+ - spanner key set
+ - hex key set
+ - DIN 875
+ - calipers
+ - screwdriver set
+ - player set (grabber/cutter etc..)
+ - rubber hummers
+
+<div align="center"><img src="media\Building\1.jpg" width="100%"></div>
+
+All MakerSpace parts have been modeled Solidworks and all the files are in [CAD](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/tree/master/CAD) folder . Using Solidworks is possible to export/prepare the parts for production in the following ways:
+
+- right click save as STL, on a body that needs to be 3D printed
+- right click export as DXF, for laser cutting
+
+<div align="center"><img src="media\solidworks.png" width="100%"></div>
+
+For more details about the tools and once you have all the fabricated parts available, refer to the for step-by-step assembly instructions and tips: MakerSpace Building Manual
+
 # Acknowledgements
 
 
