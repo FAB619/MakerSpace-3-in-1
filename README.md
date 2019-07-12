@@ -139,7 +139,10 @@ You can then control the laser from your G-code using M106 P1, like so…:
 
 - **M106 P1 S255** ; Laser at 100%
 
-**NOTE**: You can use Fan0 if it is available, in which case you will not need to define the above. As of this edit, Marlin can control up to 3 fans via M106/M107. The same commands for variabble spindle (Still need to test it)
+**NOTE**: You can use Fan0 if it is available, in which case you will not need to define the above. As of this edit, Marlin can control up to 3 fans via M106/M107. The same commands for variabble spindle (Still need to test)
+
+For CNC Cutting or engraving, we use Fusion 360 to generate the g code using GRBL as post process.
+
 # MakerSpace: Laser Cutting/Engraving
 As laser cutter and engraver machine, MakerSpaceis is equiped with 2 watt laser usefull for cutting papers, 3mm wood, 3mm acrylic and engrave on it.
 To Generate the G-code, there are diffrent softwares and methods.
@@ -151,3 +154,21 @@ The first test for laser was generated using inkscape and [JTP laser tool plug-i
 The second software tested was [LaserGRBL](http://lasergrbl.com/en/) which is one of the best Windows GCode streamer for DIY Laser Engraver. LaserGRBL is able to load and stream GCode path to arduino, as well engrave images, pictures and logo with internal conversion tool. (more details the website)
 we used this software to test image engraving and it is also compatible with Marlin Firmware with some modifications.
 <div align="center"><img src="media/laserGRBL.jpg" width="100%"></div>
+
+# Acknowledgements
+
+
+The development of this machine has been funded by:<br>
+**[German Federal Ministry of Education and Research](https://www.bmbf.de/en/index.html)**
+
+Funds implemented by:<br>
+**[OpenLab Hamburg](http://openlab-hamburg.de/startpage/)**<br>
+[Helmut-Schmidt-Universität Universität der Bundeswehr](https://www.hsu-hh.de/en/)<br>
+Laboratorium Fertigungstechnik<br>
+Holstenhofweg 85<br>
+22043 Hamburg<br>
+
+# License 
+
+# Note
+This documentation will be continuously improved as soon there are updates and/or improvements on the machine.
