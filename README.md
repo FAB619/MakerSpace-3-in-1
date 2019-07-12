@@ -124,6 +124,35 @@ This is the table for [3D printed Parts](https://github.com/Fab-Lab-Machines/Mak
 # Compact design
 <div align="center"><img src="media/Compact.JPG" width="100%"></div>
 
+# Machine Details
+You can find clear details in the [docs](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/tree/master/Docs) folder in this repository.
+
+<div align="center"><img src="media/Details/Details.JPG" width="100%"></div>
+
+<div align="center"><i>MakerSpace Details</i></div>
+
+<div align="center"><img src="media/Details/Views.JPG" width="100%"></div>
+
+<div align="center"><i>All Views</i></div>
+
+<div align="center"><img src="media/Details/ToolHolder.JPG" width="100%"></div>
+
+<div align="center"><i>Tool Holder Assembly</i></div>
+
+<div align="center"><img src="media/Details/Housin&Rod.JPG" width="100%"></div>
+
+<div align="center"><i>Rod & Housing Assembly</i></div>
+
+<div align="center"><img src="media/Details/Tools.JPG" width="100%"></div>
+
+<div align="center"><i>Tools Assembly</i></div>
+
+<div align="center"><img src="media/Details/Bed.JPG" width="100%"></div>
+
+<div align="center"><i>Bed Assembly</i></div>
+
+<div align="center"><img src="media/Details/Elect_Box.JPG" width="100%"></div>
+<div align="center"><i>Electronic Box Assembly</i></div>
 
 # Software
 
@@ -168,7 +197,7 @@ Laboratorium Fertigungstechnik<br>
 Holstenhofweg 85<br>
 22043 Hamburg<br>
 
-# License 
+# License
 
 # Note
 This documentation will be continuously improved as soon there are updates and/or improvements on the machine.
