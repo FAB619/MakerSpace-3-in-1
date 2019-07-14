@@ -225,6 +225,11 @@ All MakerSpace parts have been modeled Solidworks and all the files are in [CAD]
 
 For more details about the tools and once you have all the fabricated parts available, refer to the for step-by-step assembly instructions and tips: **[MakerSpace Building Manual](https://github.com/Fab-Lab-Machines/MakerSpace-3-in-1/wiki)**
 
+# Media
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vwQPz8xjFZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
 # Contact
 
 - **alilakais@gmail.com**
