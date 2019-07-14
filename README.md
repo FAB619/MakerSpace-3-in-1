@@ -227,7 +227,7 @@ For more details about the tools and once you have all the fabricated parts avai
 
 # Media
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vwQPz8xjFZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
 
 
 # Contact
