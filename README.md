@@ -3,6 +3,7 @@
 <div align="center"><img src="media/8F7A9353.jpg" width="100%"></div>
 <div align="center"><i>Open Source 3-in-1 fabrication machine</i></div>
 
+# Hello World 
 # Premises
 
 3D printers are amazing. Unfortunately, they used to be hulking, complicated, expensive, and with limited functions. We’ve been hearing about and experiencing the pain of setting up the difficult-to-use DIY 3D printer kit and being limited by the standard plug-and-play 3D printer. We are hoping to change that. So we came up with an idea: create a 3D printer, which is easy-to-use, expandable for makers, and truly affordable for everyone.
